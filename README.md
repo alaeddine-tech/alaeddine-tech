@@ -46,10 +46,7 @@
 
 ##  Contact
 
-- 📧 mostefaalaaeddine095@email.com
+-  mostefaalaaeddine095@email.com
+-  www.linkedin.com/in/alaaeddine-mostefa-1995b53ba
 
 ---
-
-<p align="center">
-  ⚡ "Discipline beats motivation."
-</p>
