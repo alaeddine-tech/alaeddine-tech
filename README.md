@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Alaaeddine</h1>
 
-<!--
-**alaeddine-tech/alaeddine-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Learner;Backend+Engineering;Always+Learning+New+Tech" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+
+- 💻 I focus on **web Development**
+- 🧠 Strong in **Java & C**
+- ⚙️ Currently try learning **Spring Boot**
+- 🗄️ Good understanding of **SQL & Databases**
+- 🌐 Also learning **PHP & JavaScript**
+- 🐧 Exploring **Linux (Ubuntu)** environment
+- 🔧 Using **Git & GitHub** for version control
+- 🎯 Goal: Become a **Professional Backend Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,php,js,mysql,spring,git,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 What I'm Working On
+
+- Building backend projects with **Spring Boot**
+- Improving problem-solving skills in **C & Java**
+- Learning more about **APIs & Databases**
+
+---
+
+## 📫 Contact
+
+- 📧 mostefaalaaeddine095@email.com
+
+---
+
+<p align="center">
+  ⚡ "Discipline beats motivation."
+</p>
